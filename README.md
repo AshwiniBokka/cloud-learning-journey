@@ -3,14 +3,11 @@
 
 This repository documents my projects and progress as I follow a strategic roadmap to land a top-tier tech role.
 
-## Phase 1: Skill Foundation
 
-### Week 1-2: Cloud Fundamentals
-
-**Day 1: 01-11-2025** 
 Completed the Introduction to IAM lab.
  Learned about IAM roles, policies, and service accounts.
-# Day 2: First Production Deployment on Cloud Run
+ 
+ First Production Deployment on Cloud Run
 
 ## 🎉 MAJOR MILESTONE ACHIEVED
 
