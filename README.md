@@ -88,4 +88,33 @@ This project demonstrates:
 - **API design** (RESTful endpoints with proper responses)
 
 
+ 🚀 Live Production Application
+
+
+
+### 2. ML Model Monitoring System
+**URL:** https://ml-model-monitor-640781293504.us-central1.run.app
+**Features:** Production ML monitoring, drift detection, alerting system, Streamlit dashboard
+
+## 📊 What These Projects Demonstrate
+
+### Technical Skills:
+- **FastAPI** for production backend APIs
+- **MLOps** with model monitoring and drift detection
+- **Cloud Deployment** on Google Cloud Run
+- **Database Design** with SQLAlchemy
+- **Authentication & Security** with API keys
+- **Data Visualization** with Streamlit and Plotly
+
+
+## 🔧 Tech Stack Mastery
+- **Backend:** FastAPI, SQLAlchemy, Pydantic
+- **ML/AI:** Gemini API, scikit-learn, statistical testing
+- **Database:** SQLite (production-ready patterns)
+- **Cloud:** Google Cloud Run, Docker, gcloud CLI
+- **Monitoring:** Custom metrics, health checks, alerting
+- **Visualization:** Streamlit, Plotly
+
+
+
 
